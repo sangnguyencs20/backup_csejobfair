@@ -1,0 +1,15 @@
+GET http://localhost:3001/business/all
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJkYXRhIjpbeyJpZGJ1c2luZXNzIjoxMDAwLCJuYW1lIjoia2hhbmciLCJlbWFpbCI6ImtoYW5nLm5ndXllbjQxNjUiLCJwaG9uZSI6IjA5NDU0NDczNTYiLCJwYXNzd29yZCI6IktoYW5nMjAyNjIwIiwicmVwcmVzZW50YXRpb25fbmFtZSI6ImtoYW5nIn1dLCJpYXQiOjE2NTQ2NTYyNTIsImV4cCI6MTY1NDY1OTg1Mn0.oETvivqyIF-bb_wZHdpfFMjK6ePs2Dmqt1Ff_1goGoQ
+####
+GET http://localhost:3001
+
+####
+POST http://localhost:3001/account/login
+Content-Type: application/json
+
+{
+    "email": "khang.nguyen4165",
+    "password": "Khang202620"
+}
+####
+GET http://localhost:3001/haha 

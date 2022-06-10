@@ -1,0 +1,10 @@
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (1, '253-613-4539', 'Wilmar Filippucci', 'wfilippucci0@i2i.jp', 'hB9RMBHUIy');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (2, '857-979-9792', 'Lawry Canland', 'lcanland1@psu.edu', 'qH6Dw9uxGBUF');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (3, '725-820-2319', 'Mikael Heinrici', 'mheinrici2@cbsnews.com', 'rFVQL4k2yGe7');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (4, '181-963-0036', 'Clem Cavaney', 'ccavaney3@buzzfeed.com', 'UglKEqs');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (5, '601-563-7890', 'Nannette Willerson', 'nwillerson4@purevolume.com', 'zzwix7m0L');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (6, '957-944-9545', 'Kelbee Poznan', 'kpoznan5@smugmug.com', 'XTUv6r0');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (7, '450-969-7697', 'Teddi Gwilliam', 'tgwilliam6@ted.com', 'LVsxpg3T');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (8, '999-980-6417', 'Lewiss Whawell', 'lwhawell7@de.vu', 'Gy00Keem');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (9, '562-834-4945', 'Bear Noye', 'bnoye8@artisteer.com', 't5YWH1IF2ydC');
+insert into `cse job fair registration`.admin (idadmin, phone, name, email, password) values (10, '172-606-0057', 'Orel Lumsdaine', 'olumsdaine9@google.cn', '8gPDeHdXZ');
